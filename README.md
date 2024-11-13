@@ -55,24 +55,12 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-# 🐳 NEXT STEP
-<p align="center">
- <h3>
-  📖 Read a lot of books 📚
- </h3>
- <h3>
-  ⌨️ Do Programmers 💻
- </h3>
- <h3>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
- </h3>
-</p>
-
 # 🤪 Certificate
 
 |이름|기간|비고|
-|------|---|----|
+|----|----|----|
 |컴퓨터활용능력|2019.09|1급|
 |정보처리산업기사|2022.06||
+|TOPCIT|2024.05|556점|
 
 </div>
